@@ -1,2 +1,3 @@
 # ansible-playbook-mysql
-Test line 2
+Run ansible
+ansible-playbook -i inventory db.yml
